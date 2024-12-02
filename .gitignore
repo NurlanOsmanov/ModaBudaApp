@@ -1,0 +1,43 @@
+# Miscellaneous
+modabuda_app/*.class
+modabuda_app/*.log
+modabuda_app/*.pyc
+modabuda_app/*.swp
+modabuda_app/.DS_Store
+modabuda_app/.atom/
+modabuda_app/.buildlog/
+modabuda_app/.history
+modabuda_app/.svn/
+modabuda_app/migrate_working_dir/
+
+# IntelliJ related
+modabuda_app/*.iml
+modabuda_app/*.ipr
+modabuda_app/*.iws
+modabuda_app/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+modabuda_app/**/doc/api/
+modabuda_app/**/ios/Flutter/.last_build_id
+modabuda_app/.dart_tool/
+modabuda_app/.flutter-plugins
+modabuda_app/.flutter-plugins-dependencies
+modabuda_app/.pub-cache/
+modabuda_app/.pub/
+modabuda_app/build/
+
+# Symbolication related
+modabuda_app/app.*.symbols
+
+# Obfuscation related
+modabuda_app/app.*.map.json
+
+# Android Studio will place build artifacts here
+modabuda_app/android/app/debug
+modabuda_app/android/app/profile
+modabuda_app/android/app/release
